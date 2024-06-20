@@ -1,6 +1,6 @@
-#  eCommerce-360
+#  eCommerce-360Shop
 
-Descripción corta del proyecto y su propósito.
+Un ecommerce-360Shop es básicamente una tienda en línea donde puedes comprar todo tipo de productos, desde ropa y gadgets hasta comida y servicios. Imagina poder navegar por una tienda desde la comodidad de tu sofá, agregar cosas a tu carrito de compras virtual, y pagar de manera fácil con tu tarjeta o PayPal. Es como hacer compras tradicionales, pero sin las filas ni el tráfico. ¡Todo llega directo a tu puerta!
 
 ## Instalación
 
